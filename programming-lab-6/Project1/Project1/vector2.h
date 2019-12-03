@@ -26,7 +26,7 @@ public:
 	
 	MyVector2 operator +(const MyVector2 t_right) const;//adds two vectors together
 	MyVector2 operator -(const MyVector2 t_right) const;// subtracts two vectors from eachother
-	MyVector2 operator *(MyVector2 V2);//multiplies a vector by a number
+	float operator *(MyVector2 V2);//multiplies a vector by a number
 	MyVector2 operator *(float k);
 	MyVector2 operator *(int k);
 	MyVector2 operator -();  // this changes the vector//makes a vector a negative
