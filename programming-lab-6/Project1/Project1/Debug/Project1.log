@@ -1,0 +1,9 @@
+﻿  inter.cpp
+  main.cpp
+  matrix3.cpp
+  vector3.cpp
+C:\Users\c00236511\Desktop\gameplay-programming-i-lab-06\Project1\Project1\vector3.cpp(174,16): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\c00236511\Desktop\gameplay-programming-i-lab-06\Project1\Project1\vector3.cpp(175,16): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+C:\Users\c00236511\Desktop\gameplay-programming-i-lab-06\Project1\Project1\vector3.cpp(176,16): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+  Project1.vcxproj -> C:\Users\c00236511\Desktop\gameplay-programming-i-lab-06\Project1\Debug\Project1.exe
